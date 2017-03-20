@@ -1,0 +1,24 @@
+{
+  "name": "dz",
+  "version": "1.0.0",
+  "description": "domashka_4",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ebrusnev/dz4.git"
+  },
+  "author": "Evgenii_B",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ebrusnev/dz4/issues"
+  },
+  "homepage": "https://github.com/Ebrusnev/dz4#readme",
+  "dependencies": {
+    "nodemon": "^1.11.0",
+    "underscore": "^1.8.3"
+  }
+}
